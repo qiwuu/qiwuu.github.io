@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cute.png"
+  avatar           : "cute.jpg"
   name             : "Wu Qi"
   pronouns         : # example: "she/her"  
   bio              : "M.S. Student in Logistics Engineering and Management"
