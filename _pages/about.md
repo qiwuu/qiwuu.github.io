@@ -20,7 +20,7 @@ Research Interests: Smart Logistics, Truck-Drone Collaborative Routing, Low-alti
 Education
 ======
 * M.S. in Logistics Engineering and Management, Hefei University of Technology, 2024 – 2027 
-* B.Econ. in International Economics and Trade, Tianjin Foreign Studies UniversityYour University, 2019 – 2023
+* B.Econ. in International Economics and Trade, Tianjin Foreign Studies University, 2019 – 2023
   
 Current Research
 ======
