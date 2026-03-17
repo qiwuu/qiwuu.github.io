@@ -10,8 +10,8 @@ redirect_from:
 I am a second year graduate student majoring in Logistics Engineering and Management at the School of Management, Hefei University of Technology. Currently, my work focuses on Urban Last-mile Delivery, specifically the Heterogeneous Truck-Drone Collaborative Routing Problem (HTDCRP) considering multi-drop delivery strategies.
 
 [Email]2024171514@mail.hfut.edu.cn
-Advisor: Ruida Xie(https://faculty.hfut.edu.cn/xieruida/zh_CN/index.htm)
-Laboratory: Aerospace System Management Laboratory(https://faculty.hfut.edu.cn/~IV77Vz/zh_CN/index.htm)
+Advisor: [Ruida Xie](https://faculty.hfut.edu.cn/xieruida/zh_CN/index.htm)
+Laboratory: [Aerospace System Management Laboratory](https://faculty.hfut.edu.cn/~IV77Vz/zh_CN/index.htm)
 Research Interests: Smart Logistics, Truck-Drone Collaborative Routing, Low-altitude Economy, Meta-heuristics.
 
 Education
