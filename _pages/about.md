@@ -45,8 +45,8 @@ Honors & Awards
 1. Third Prize, The 17th "China Electrotechnical Society Cup" National Undergraduate Mathematical Contest in Modeling (2025);
 2. Third Prize, The 14th APMCM Asia Pacific Mathematical Contest in Modeling (2024).
 
-**English Proficiency**
-National Third Prize, National English Translation Competition for College Students (NETC) (2024).
+**English**
+1. National Third Prize, National English Translation Competition for College Students (NETC) (2024).
 
 For more info
 ------
